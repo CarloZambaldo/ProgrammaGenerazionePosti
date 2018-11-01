@@ -47,10 +47,15 @@ Inoltre, e' stato creato un programma (CreaFile.py) con il compito di agevolare 
 
 
 ### Guida all'installazione ###
-Scaricare il file posti.py, (NOTA: e' necessario aver scaricato python v.3, anche se funziona anche con la v.2), eseguire dunque il file posti.py.
+Scaricare il file posti.py, (NOTA: e' necessario aver scaricato python v.3, funziona anche con la v.2), eseguire dunque il file posti.py.
+Onde evitare spiacevoli malfunzionamenti e' necessario creare il file NomiStudenti.txt (si può utilizzare a questo fine anche il programma CreaFile.py).
 
-### Un elenco dei file contenuti nel pacchetto ###
-
+### Elenco dei file contenuti nel pacchetto ###
+I file principali del pacchetto sono:
+ - posti 4.3.7.py (programma principale)
+ - CreaFile.py (programma per generare il file NomiStudenti.txt)
+ - NomiStudenti.txt (esempio di file)
+Inoltre, nel pacchetto sono disponibili tutte le versioni precedenti (compresa quella scritt in C++).
 
 ### Informazioni riguardo al tipo di licenza e il copyright ###
 Il programma è OpenSource. Modifiche e correzioni di bugs sono ben accette.
@@ -64,7 +69,4 @@ Nessun bug noto, in caso si riscontrasse qualsiasi malfunzionamento pregasi segn
 ### Risoluzione di problemi ###
 
 
-### Ringraziamenti ###
-
-
-### Un changelog ###
+### Changelog ###
